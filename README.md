@@ -1,10 +1,4 @@
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Robotics-Reachy-blue" alt="Reachy Robotics">
-  <img src="https://img.shields.io/badge/Platform-Multi--Platform-green" alt="Multi-Platform">
-  <img src="https://img.shields.io/badge/License-Open%20Source-orange" alt="Open Source">
-</p>
-
 A comprehensive collection of robotics projects, libraries, and tools for building and controlling Reachy and Reachy Mini humanoid robots. This repository contains everything from advanced robotic hands to computer vision systems, kinematics solvers, and motor controllers.
 
 ---
