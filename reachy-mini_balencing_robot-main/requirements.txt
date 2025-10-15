@@ -1,0 +1,6 @@
+# Python requirements for robot controller script
+# Install with: pip install -r requirements.txt
+
+pyserial>=3.5
+keyboard>=0.13.5  # Optional, for interactive control
+
