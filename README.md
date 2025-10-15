@@ -1,4 +1,3 @@
-#reachy-mods
 
 <p align="center">
   <img src="https://img.shields.io/badge/Robotics-Reachy-blue" alt="Reachy Robotics">
