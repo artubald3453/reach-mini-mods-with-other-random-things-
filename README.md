@@ -454,19 +454,6 @@ Special thanks to:
 
 ---
 
-## 📞 Contact & Support
-
-### Get Help
-- [Discord Community](https://discord.com/channels/519098054377340948/)
-- [GitHub Issues](../../issues)
-- [Pollen Robotics Website](https://www.pollen-robotics.com/)
-
-### Social Media
-- [Twitter/X](https://twitter.com/pollenrobotics)
-- [LinkedIn](https://www.linkedin.com/company/pollen-robotics/)
-
----
-
 ## 🎯 Project Status
 
 | Project | Status | Maintenance | Documentation |
@@ -484,12 +471,11 @@ Special thanks to:
 <p align="center">
   <b>🤖 Happy Building! 🤖</b>
   <br><br>
-  <i>Building the future of humanoid robotics, one open-source project at a time.</i>
 </p>
 
 ---
 
 **Last Updated**: October 2025  
 **Repository Maintained By**: Finn Cullen  
-**Based On**: Pollen Robotics Open-Source Projects
+**Creadits to**: Pollen-robotics, https://www.thingiverse.com/thing:4593553 (WorkerCraftsman)
 
